@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "lib": ["DOM", "ES2019"],
+    "jsx": "react",
+    "forceConsistentCasingInFileNames": true,
+    // "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  },
+  "files": ["src/index.tsx"]
+}
